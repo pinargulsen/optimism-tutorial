@@ -1,5 +1,4 @@
 # [DEPRECATED] OP Mainnet Tutorials
-
 This documentation is deprecated. Please use our new [technical documentation](https://docs.optimism.io).
 
 [![Discord](https://img.shields.io/discord/667044843901681675.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discord-gateway.optimism.io)
